@@ -7,7 +7,8 @@ While translating words from English to Bengali, don't forget to check them out:
 2. Cluster == ক্লাস্টার
 3. Docs / Documentation == ডকুমেনটেশন
 4. Pull Request== পুল রিকুয়েস্ট or, পুল রিকোয়েস্ট
-5. Style Guide ==  শৈলী নির্দেশিকা 
+5. Style Guide ==  শৈলী নির্দেশিকা
+6. Home == হোম 
 
 
 
